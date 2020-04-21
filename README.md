@@ -5,4 +5,4 @@ Repositório para exerícios e trabalhos do mestrado da matéria Inteligência A
 
 . Lista 3 - Regressão Polinomial
 
-Professor: Felipe Augusto Pereira de Figueiredo - http://id=K4231385A3
+Professor: Felipe Augusto Pereira de Figueiredo - http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4231385A3
