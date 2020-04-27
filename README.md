@@ -5,4 +5,6 @@ Repositório para exerícios e trabalhos do mestrado da matéria Inteligência A
 
 . Lista 3 - Regressão Polinomial
 
+. Lista 4 - Classificação Linear - Parte I
+
 Professor: Felipe Augusto Pereira de Figueiredo - http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4231385A3
